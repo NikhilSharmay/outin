@@ -1,0 +1,23 @@
+{
+  "name": "outin",
+  "version": "1.0.0",
+  "description": "official web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikhilSharmay/outin.git"
+  },
+  "keywords": [
+    "outin",
+    "travel"
+  ],
+  "author": "nikhil sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikhilSharmay/outin/issues"
+  },
+  "homepage": "https://github.com/NikhilSharmay/outin#readme"
+}
